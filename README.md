@@ -1,4 +1,3 @@
-Here is a `README.md` you can use for your GitHub repository:
 
 ---
 
@@ -11,7 +10,7 @@ Here is a `README.md` you can use for your GitHub repository:
 
 ## 📦 Features
 
-* Simple and elegant GUI using PyQt5
+* Simple and elegant GUI
 * Replace `LHOST` and `LPORT` dynamically in your payload
 * Automatically open a browser to obfuscate your payload
 * Copy obfuscated code back and compile it to an executable
